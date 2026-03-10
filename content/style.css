@@ -1140,7 +1140,7 @@ button:not(:disabled) {
 	right: 0;
 	height: 100%;
 	width: 5px;
-	background: linear-gradient(to bottom, #fff, #e92213);
+	background: linear-gradient(to bottom, #fff, #2DE3F7);
 	animation: animate2 2s linear infinite;
 	animation-delay: 1s;
 }
@@ -1161,7 +1161,7 @@ button:not(:disabled) {
 	right: 0;
 	width: 100%;
 	height: 5px;
-	background: linear-gradient(to left, #fff, #e92213);
+	background: linear-gradient(to left, #fff, #2DE3F7);
 	animation: animate3 2s linear infinite;
 }
 
@@ -1181,7 +1181,7 @@ button:not(:disabled) {
 	left: 0;
 	height: 100%;
 	width: 5px;
-	background: linear-gradient(to top, #fff, #e92213);
+	background: linear-gradient(to top, #fff, #2DE3F7);
 	animation: animate4 2s linear infinite;
 	animation-delay: 1s;
 }
