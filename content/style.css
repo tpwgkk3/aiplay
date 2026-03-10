@@ -169,7 +169,7 @@ img {
 }
 
 #a6685618956.a695261691 .footer-bg[data-v-7a30832209] {
-	background: linear-gradient(180deg, #0606BD 0%, #000033 100%);
+	background: linear-gradient(180deg, #0000A3 0%, #000033 100%);
 	-webkit-box-shadow: 0 12px 10px 10px hsla(0, 0%, 67.8%, 0.6196078431372549);
 	box-shadow: 0 12px 10px 10px hsla(0, 0%, 67.8%, 0.6196078431372549);
 	border-top-left-radius: 20px;
@@ -321,8 +321,8 @@ img {
 #a6685618956 .balance-card[data-v-7a1517396],
 #a6685618956 .wallet-card[data-v-7a1517396] {
 	background: linear-gradient(to right, #000047, #000047);
-    border-left: 4px solid #4A4AFF;
-	border-right: 4px solid #4A4AFF;
+    border-left: 4px solid #0606BD;
+	border-right: 4px solid #0606BD;
 	border-radius: 5px;
 	padding: 8px;
 	text-align: center;
