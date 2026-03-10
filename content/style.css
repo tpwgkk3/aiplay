@@ -1314,7 +1314,7 @@ button:not(:disabled) {
     }
     .button {
       display: inline-block;
-      background-color: #ce0606;
+      background-color: #0606BD;
       color: white;
       padding: 12px 24px;
       font-size: 16px;
