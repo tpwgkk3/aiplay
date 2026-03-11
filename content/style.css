@@ -323,6 +323,8 @@ img {
 	background: linear-gradient(to right, #000047, #000047);
     border-left: 4px solid #0606BD;
 	border-right: 4px solid #0606BD;
+	border-top: 4px solid #0606BD;
+	border-bottom: 4px solid #0606BD;
 	border-radius: 5px;
 	padding: 8px;
 	text-align: center;
