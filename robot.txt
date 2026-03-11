@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.aiplaycasino.net/sitemap.xml
+Sitemap: https://www.aiplaycasino.net/image-sitemap.xml
