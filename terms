@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="title" content="AiPlay Terms & Conditions | User Agreement">
+<title>AiPlay Terms & Conditions | User Agreement</title>
+<meta name="description" content="Read the AiPlay Terms & Conditions to understand the rules, policies, and user responsibilities for playing on our secure online gaming platform in Malaysia and Southeast Asia.">
+<meta name="keywords" content="AiPlay terms, aiplay terms and conditions, aiplay user agreement, AiPlay rules, aiplay malaysia terms">
+<meta name="robots" content="index, follow">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AiPlay Terms & Conditions",
+  "url": "https://www.aiplaycasino.net/terms.html",
+  "description": "Read the AiPlay Terms & Conditions to understand the rules, policies, and user responsibilities for playing on our secure online gaming platform in Malaysia and Southeast Asia.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "AiPlay",
+    "url": "https://www.aiplaycasino.net"
+  },
+  "inLanguage": "en"
+}
+</script>
+
+    <link rel="stylesheet" href="./files/all.min.css">
+    
+    <style>
+        /* Global Styles */
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Arial', sans-serif; }
+        body { background-color: #f8f9fa; color: #333; line-height: 1.6; }
+        a { text-decoration: none; color: #e63946; }
+        
+        .container { width: 100%; max-width: 1200px; margin: 0 auto; padding: 0 15px; }
+        
+        .btn { 
+            display: inline-block; 
+            padding: 12px 25px; 
+            background-color: #c30001; 
+            color: white; 
+            border-radius: 4px; 
+            font-weight: bold; 
+            transition: all 0.3s ease; 
+        }
+        .btn:hover { background-color: #810102; transform: translateY(-2px); }
+
+        /* Navigation */
+        .navbar {
+            background-color: #000;
+            color: white;
+            padding: 15px 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .navbar .container { display: flex; justify-content: space-between; align-items: center; }
+        .logo img { height: 40px; width: auto; }
+        .nav-side { flex: 1; } /* Helper for centering logo */
+
+        /* Hero Section */
+        .hero {
+            min-height: 80vh;
+            background: #0f0000 url('./bg.png') center/cover no-repeat;
+            color: white;
+            display: flex;
+            align-items: center;
+            margin-top: 60px;
+            padding: 40px 0;
+        }
+        .hero .container { display: flex; align-items: center; gap: 40px; }
+        .hero-content, .hero-image { flex: 1; }
+        .hero-image img { max-width: 100%; border-radius: 8px; }
+        .hero h1 { font-size: 48px; margin-bottom: 20px; }
+        .hero p { font-size: 18px; margin-bottom: 30px; }
+
+        /* Games Grid */
+        .games-section { padding: 80px 0; background: #fff; }
+        .section-title { text-align: center; margin-bottom: 40px; }
+        .games-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); 
+            gap: 20px; 
+            margin-bottom: 50px; 
+        }
+        .game-card { 
+            background: #fff; 
+            border-radius: 8px; 
+            overflow: hidden; 
+            transition: transform 0.3s; 
+            border: 1px solid #fff;
+        }
+        .game-card:hover { transform: translateY(-10px); }
+        .game-card img { width: 100%; display: block; }
+
+        .games-content { max-width: 800px; margin: 0 auto; }
+        .games-content h1 { font-size: 28px; margin-bottom: 20px; }
+        .games-content ul { padding-left: 20px; margin-bottom: 20px; }
+
+        /* Footer */
+        footer { background: #000; color: white; padding: 40px 0 20px; text-align: center; }
+        .footer-links { margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+        .footer-links a { color: #ccc; font-size: 14px; }
+        .footer-links a:hover { color: #c30001; }
+        .footer-bottom { border-top: 1px solid #222; padding-top: 20px; font-size: 13px; }
+
+        /* Mobile Adjustments */
+        @media (max-width: 768px) {
+            .hero .container { flex-direction: column; text-align: center; }
+            .hero-image { order: -1; }
+            .hero h1 { font-size: 32px; }
+            .games-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="container">
+        <div class="nav-side">
+            <a href="/"><img src="/files/homepage.png" alt="Home" style="height: 30px;"></a>
+        </div>
+        <div class="logo">
+            <img src="./files/logo.webp" alt="Aiplay Logo">
+        </div>
+        <div class="nav-side"></div> </div>
+</nav>
+
+<section class="hero">
+    <div class="container">
+        <div class="hero-image">
+            <img src="./files/banner_en.png" alt="Aiplay Banner">
+        </div>
+        <div class="hero-content">
+            <p><b>Aiplay</b> is known as one of Malaysia’s trusted online casino platforms, delivering secure gameplay, diverse casino games, and high-quality online entertainment to players across Southeast Asia.</p>
+            <a href="/login" class="btn" target="_blank">Start Playing Now</a>
+        </div>
+    </div>
+</section>
+
+<section class="games-section">
+    <div class="container">
+        <div class="section-title">
+            <h2>AiPlay Hot Games 🔥</h2>
+        </div>
+        <div class="games-grid">
+            <div class="game-card"><img src="./files/aiplay_slot_pp.jpg" alt="aiplay_slot_pp"></div>
+            <div class="game-card"><img src="./files/aiplay_slot_uu.jpg" alt="aiplay_slot_uu"></div>
+            <div class="game-card"><img src="./files/aiplay_slot_vplus.jpg" alt="aiplay_slot_vplus"></div>
+            <div class="game-card"><img src="./files/aiplay_slot_918.jpg" alt="aiplay_slot_918"></div>
+            <div class="game-card"><img src="./files/aiplay_slot_pgs.jpg" alt="aiplay_slot_pgs"></div>
+            <div class="game-card"><img src="./files/aiplay_slot_lfc.jpg" alt="aiplay_slot_lfc"></div>
+            <div class="game-card"><img src="./files/aiplay_ibc.jpg" alt="aiplay_ibc"></div>
+            <div class="game-card"><img src="./files/aiplay_sbobet.jpg" alt="aiplay_sbobet"></div>
+            <div class="game-card"><img src="./files/aiplay_obet33.jpg" alt="aiplay_obet33"></div>
+            <div class="game-card"><img src="./files/aiplay_live_sexy.jpg" alt="aiplay_live_sexy"></div>
+            <div class="game-card"><img src="./files/aiplay_live_pt.jpg" alt="aiplay_live_pt"></div>
+            <div class="game-card"><img src="./files/aiplay_live_pp.jpg" alt="aiplay_live_pp"></div>
+            <div class="game-card"><img src="./files/aiplay_live_dg.jpg" alt="aiplay_live_dg"></div>
+            <div class="game-card"><img src="./files/aiplay_fish_ka.jpg" alt="aiplay fish ka"></div>
+            <div class="game-card"><img src="./files/aiplay_fish_jili.jpg" alt="aiplay fish jili"></div>
+        </div>
+
+        <div class="games-content">
+<h1>AiPlay Terms & Conditions</h1>
+
+<p>Welcome to <b>AiPlay</b>. By accessing or using our online gaming platform, you agree to comply with these Terms & Conditions. These rules are designed to ensure a safe, fair, and enjoyable experience for all players across Malaysia and Southeast Asia.</p>
+
+<h2>User Eligibility</h2>
+<p>Players must be of legal gambling age in their country of residence and must comply with all local laws regarding online gaming. By registering an account, you confirm that you meet these requirements.</p>
+
+<h2>Account Responsibilities</h2>
+<ul>
+    <li>All account information provided must be accurate and up-to-date.</li>
+    <li>Players are responsible for maintaining the confidentiality of their account credentials.</li>
+    <li>Any suspicious activity must be reported immediately to AiPlay support.</li>
+</ul>
+
+<h2>Gameplay Rules</h2>
+<p>AiPlay provides fair and regulated online gaming experiences. Players must follow the rules for each game, and all winnings are subject to verification and adherence to platform policies.</p>
+
+<h2>Deposits & Withdrawals</h2>
+<p>Players can use secure payment methods for deposits and withdrawals. All transactions are monitored to prevent fraud and ensure compliance with legal and regulatory standards.</p>
+
+<h2>Privacy & Data Protection</h2>
+<p>AiPlay respects your privacy. We collect, store, and process personal information in accordance with our Privacy Policy to provide secure and reliable services.</p>
+
+<h2>Responsible Gaming</h2>
+<p>We encourage responsible gaming and provide tools for players to set limits, self-exclude, or seek help if needed. AiPlay reserves the right to suspend or restrict accounts in cases of suspected abuse or violation of these Terms.</p>
+
+<h2>Amendments</h2>
+<p>AiPlay may update these Terms & Conditions from time to time. Players are responsible for reviewing any changes, and continued use of the platform constitutes acceptance of the updated terms.</p>
+
+<p>By using <b>AiPlay</b>, you agree to follow these Terms & Conditions, ensuring a safe, fair, and enjoyable gaming environment for yourself and all other players.</p>    
+</div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="footer-links">
+            <a href="/about.html">About</a>
+            <a href="/contact.html">Contact</a>
+            <a href="/privacy.html">Privacy Policy</a>
+            <a href="/terms.html">Terms</a>
+            <a href="/readme.html">Site Info</a>
+            <a href="/how-to-register-aiplay.html">Register Guide</a>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2026 <a href="https://www.aiplaycasino.net">AiPlay</a>. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+    // Optimized Scroll Effect
+    window.addEventListener('scroll', () => {
+        const navbar = document.querySelector('.navbar');
+        navbar.style.padding = window.scrollY > 50 ? '8px 0' : '15px 0';
+    });
+</script>
+
+</body>
+</html>
