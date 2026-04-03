@@ -1,11 +1,8 @@
 User-agent: *
-Allow: /
 
-# Block unnecessary system paths
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /admin/
 Disallow: /login/
 
-# Sitemap
 Sitemap: https://www.aiplaycasino.net/sitemap.xml
